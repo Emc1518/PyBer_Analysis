@@ -1,12 +1,14 @@
 # **PyBer Analysis**
 
-##**Overview**
+## **Overview**
+
 purpose of new analysis
 
-##**Results**
+## **Results**
+
 Differences in ride-sharing data amon the different city types
 
-##**Summary**
+## **Summary**
 
 The following recommendations are made based on the above results:
 
