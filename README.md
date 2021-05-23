@@ -6,7 +6,8 @@ The purpose of this analysis is to compare ride sharing data in three different 
 
 ## **Results**
 
-https://github.com/Emc1518/PyBer_Analysis/blob/4e797755e21168e2af9adbe4e12410e025a3eaa3/pyber_fare_summary.png
+![pyber_fare_summary](https://user-images.githubusercontent.com/81889167/119247773-80f62d80-bb5a-11eb-9906-15516fc4faf7.png)
+
 
 Most of Pyber's revenue is generated in urban cities because there are more rideshare drivers and ridesharing is used more often in Urban cities. Drivers in rural cities are making more per ride than drivers in urban cities even though the number of rides in rural cities is lower than in urban cities. The rideshare data of suburban cities shows that drivers numbers are in between rural and urban cities. All three city types show similar increases and decreases in fares from January to April 2019. 
 
